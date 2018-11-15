@@ -1,3 +1,7 @@
 print("welcome")
+<<<<<<< HEAD
 print("welcome again")
 print("welcome again 2")
+=======
+print("welcome again 3")
+>>>>>>> master
